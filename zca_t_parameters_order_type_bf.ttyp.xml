@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TTYP" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD40V>
+    <TYPENAME>ZCA_T_PARAMETERS_ORDER_TYPE_BF</TYPENAME>
+    <DDLANGUAGE>D</DDLANGUAGE>
+    <ROWTYPE>ZCA_PARAMETERS_ORDER_TYPE_BUFF</ROWTYPE>
+    <ROWKIND>S</ROWKIND>
+    <DATATYPE>STRU</DATATYPE>
+    <ACCESSMODE>H</ACCESSMODE>
+    <KEYDEF>K</KEYDEF>
+    <KEYKIND>U</KEYKIND>
+    <KEYFDCOUNT>0001</KEYFDCOUNT>
+    <DDTEXT>Buffertabelle</DDTEXT>
+   </DD40V>
+   <DD42V>
+    <DD42V>
+     <TYPENAME>ZCA_T_PARAMETERS_ORDER_TYPE_BF</TYPENAME>
+     <KEYFDPOS>0001</KEYFDPOS>
+     <ROWTYPEPOS>0001</ROWTYPEPOS>
+     <KEYFIELD>INPUT</KEYFIELD>
+    </DD42V>
+   </DD42V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

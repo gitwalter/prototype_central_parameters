@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCT_BRF_PARAMETERS_FOR_PROGRAM</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Test Parameter für Programm ermitteln</DESCRIPT>
+    <CATEGORY>05</CATEGORY>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <WITH_UNIT_TESTS>X</WITH_UNIT_TESTS>
+    <DURATION_TYPE>12</DURATION_TYPE>
+    <RISK_LEVEL>11</RISK_LEVEL>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCT_BRF_PARAMETERS_FOR_PROGRAM</CLSNAME>
+     <CMPNAME>A01_TWO_RESULTS_IN_TABLE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>2 EInträge in der Ergebnistabelle</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCT_BRF_PARAMETERS_FOR_PROGRAM</CLSNAME>
+     <CMPNAME>A02_GET_OBJECT_ID</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Objekt-ID über Namen ermitteln</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCT_BRF_PARAMETERS_FOR_PROGRAM</CLSNAME>
+     <CMPNAME>A03_GET_APPLICATION_ID</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Objekt-ID der Applikation ermitteln</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
